@@ -2,6 +2,7 @@ name: xeus-cling
 channels:
   - conda-forge
 dependencies:
+  - jupyterlab-git=0.41.0
   - xeus-cling=0.14.0
   - xtensor=0.24.3
   - xtensor-blas=0.20.0
