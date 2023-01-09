@@ -1,4 +1,4 @@
-name: xeus-cling
+name: cpp_guide
 channels:
   - conda-forge
 dependencies:
