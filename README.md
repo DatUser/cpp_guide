@@ -6,7 +6,7 @@ Giving tips for C++:
 
 Create env:
 ```
-mamba create -n cpp_guide -c conda-forge xeus-cling jupyterlab jupyterlab-git
+mamba create -n cpp_guide -c conda-forge xeus-cling jupyterlab
 ```
 
 Activate env:
